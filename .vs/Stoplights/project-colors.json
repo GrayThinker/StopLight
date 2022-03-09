@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a31ca8a-8368-4634-bc78-ec69047a1392": {
+      "ProjectGuid": "4a31ca8a-8368-4634-bc78-ec69047a1392",
+      "DisplayName": "Stoplights",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

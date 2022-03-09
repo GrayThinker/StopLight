@@ -76,11 +76,6 @@ namespace Stoplights
             update();
             return;
 
-            
-            
-            
-
-
             //Turn both the North and South lights red.
             north_light.switch_state(StopLight.State.stop);
             south_light.switch_state(StopLight.State.stop);
